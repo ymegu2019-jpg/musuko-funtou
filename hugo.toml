@@ -1,0 +1,40 @@
+baseURL = "https://musuko-funtou.com/"
+languageCode = "ja"
+title = "うちの子、問題児！？ままの奮闘日記"
+theme = "PaperMod"
+defaultContentLanguage = "ja"
+hasCJKLanguage = true
+paginate = 10
+
+[params]
+  author = "はな"
+  description = "問題児息子との毎日をリアルに綴る、ままの奮闘日記です。"
+  defaultTheme = "light"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowShareButtons = false
+  ShowToc = false
+
+  [params.homeInfoParams]
+    Title = "うちの子、問題児！？ままの奮闘日記"
+    Content = "はなです。問題児息子との毎日をリアルに綴っています。同じ悩みを持つママさん、一緒に頑張りましょう！"
+
+[menu]
+  [[menu.main]]
+    name = "ホーム"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "記事一覧"
+    url = "/posts/"
+    weight = 2
+  [[menu.main]]
+    name = "プロフィール"
+    url = "/about/"
+    weight = 3
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
