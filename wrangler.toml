@@ -1,8 +1,2 @@
 name = "musuko-funtou"
 pages_build_output_dir = "public"
-
-[build]
-command = "hugo"
-
-[build.environment]
-HUGO_VERSION = "0.160.1"
