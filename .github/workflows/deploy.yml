@@ -5,6 +5,7 @@ on:
     branches:
       - main
   schedule:
+    - cron: '0 21 * * *'  # 毎日6:00 JST（21:00 UTC）に自動実行
     - cron: '0 12 * * *'  # 毎日21:00 JST（12:00 UTC）に自動実行
 
 jobs:
