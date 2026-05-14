@@ -6,6 +6,10 @@ defaultContentLanguage = "ja"
 hasCJKLanguage = true
 paginate = 10
 
+[services]
+  [services.googleAnalytics]
+    ID = "G-8TQ56DM7DK"
+
 [params]
   author = "はな"
   description = "問題児息子との毎日をリアルに綴る、ままの奮闘日記です。"
