@@ -31,13 +31,25 @@ paginate = 10
     url = "/"
     weight = 1
   [[menu.main]]
+    name = "カテゴリー"
+    url = "/categories/"
+    weight = 2
+  [[menu.main]]
     name = "記事一覧"
     url = "/posts/"
-    weight = 2
+    weight = 3
   [[menu.main]]
     name = "プロフィール"
     url = "/about/"
-    weight = 3
+    weight = 4
+  [[menu.main]]
+    name = "お問い合わせ"
+    url = "/contact/"
+    weight = 5
+  [[menu.main]]
+    name = "プライバシーポリシー"
+    url = "/privacy-policy/"
+    weight = 6
 
 [taxonomies]
   category = "categories"
