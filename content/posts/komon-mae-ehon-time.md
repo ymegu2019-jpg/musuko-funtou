@@ -51,6 +51,14 @@ description: "毎朝校門の前で待っていてくれる先生と、絵本を
 
 あんなに毎朝「行きたくない」と泣いていた息子に、「学校で楽しみなこと」ができた。それだけで私は、朝の景色がまるで違って見えるようになりました。
 
+<div style="text-align:center;border:2px solid #e8a0bf;border-radius:10px;padding:14px;margin:20px 0;">
+<p style="font-size:0.75em;color:#888;margin:0;">【PR】</p>
+<p style="font-size:0.95em;margin:6px 0;">絵本好きのお子さんへ。お子さん自身が“主人公”になれる、世界に一つだけのオーダーメイド絵本もあります👇</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B7SGU+2QU1II+5AXM+60OXD" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www20.a8.net/svt/bgt?aid=260703966166&wid=004&eno=01&mid=s00000024745001011000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4B7SGU+2QU1II+5AXM+60OXD" alt="">
+</div>
+
 ## 一対一の時間が、息子を変えていく
 
 ステップアップ教室では、先生と一対一でお話をする時間もあります。
