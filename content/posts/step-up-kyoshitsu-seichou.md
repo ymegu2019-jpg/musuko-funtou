@@ -63,6 +63,14 @@ description: "首絞め事件のあと先生の隣の席に。ステップアッ
 
 家では、私がいくら「こういうときはこうしようね」と言っても、なかなか届かなかったことが、専門の先生と一対一だと、すんなり吸収できるみたいで。きっと息子にとって、そこは「安心して失敗できる場所」なんだと思います。大勢の中だと焦ってしまう子でも、一対一なら落ち着いて考えられる。その子に合った環境って、こんなに大事なんだなと、あらためて痛感しました。
 
+<div style="text-align:center;border:2px solid #7fb069;border-radius:10px;padding:14px;margin:20px 0;">
+<p style="font-size:0.75em;color:#888;margin:0;">【PR】</p>
+<p style="font-size:0.95em;margin:6px 0;">おうちでも“その子のペース”で学べる教材を探している方へ。発達特性のある子どもに配慮して設計された、無学年式のオンライン教材もあります👇</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B7SGU+5VYEGA+4CT0+6J4I9" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www25.a8.net/svt/bgt?aid=260703966356&wid=004&eno=01&mid=s00000020322001097000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4B7SGU+5VYEGA+4CT0+6J4I9" alt="">
+</div>
+
 ## まだ2週間。でも、確かな成長
 
 通い始めて、まだ2週間ほど。でも、その変化に私自身が一番驚いています。
