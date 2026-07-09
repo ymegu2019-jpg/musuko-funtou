@@ -118,4 +118,12 @@ description: "宿題のたびに大騒ぎ。椅子に座らない、すぐ逃げ
 
 完璧な宿題スタイルはまだ見つかっていないけれど、今日より明日、少しずつ。同じく宿題バトルで疲れているままさんへ、一緒に試行錯誤しましょう。
 
+<div style="text-align:center;border:2px solid #7fb069;border-radius:10px;padding:14px;margin:20px 0;">
+<p style="font-size:0.75em;color:#888;margin:0;">【PR】</p>
+<p style="font-size:0.95em;margin:6px 0;">「宿題の教え方がもう分からない…」という方へ。発達特性のある子どもに配慮して設計された、無学年式のオンライン教材という選択肢もあります👇</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B7SGU+5VYEGA+4CT0+6J4I9" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www25.a8.net/svt/bgt?aid=260703966356&wid=004&eno=01&mid=s00000020322001097000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4B7SGU+5VYEGA+4CT0+6J4I9" alt="">
+</div>
+
 **はな**より
