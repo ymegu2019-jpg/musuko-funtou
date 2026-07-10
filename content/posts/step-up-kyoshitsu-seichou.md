@@ -71,6 +71,11 @@ description: "首絞め事件のあと先生の隣の席に。ステップアッ
 <img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4B7SGU+5VYEGA+4CT0+6J4I9" alt="">
 </div>
 
+<div style="border-left:4px solid #cc6644;background:#faf3ee;padding:12px 14px;margin:16px 0;">
+<p style="font-size:0.75em;color:#888;margin:0;">【PR】</p>
+<p style="margin:6px 0 0;">また、活字にふれる習慣づくりには「新聞」もおすすめ。ふりがな付きで小学生が読みやすく、"知りたい"を広げてくれます👉 <a href="https://px.a8.net/svt/ejp?a8mat=4B7X56+4D6ISQ+5SH0+5YJRM" rel="nofollow">小学生の“知りたい”を育てる新聞＋【朝日小学生新聞】</a><img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4B7X56+4D6ISQ+5SH0+5YJRM" alt=""></p>
+</div>
+
 ## まだ2週間。でも、確かな成長
 
 通い始めて、まだ2週間ほど。でも、その変化に私自身が一番驚いています。
