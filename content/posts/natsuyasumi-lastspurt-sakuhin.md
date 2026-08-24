@@ -57,6 +57,16 @@ description: "中だるみがさらに悪化した夏休み後半。それでも
 
 大人が「こう描いたら？」なんて口を出さなかったからこそ、生まれた作品たち。見守るのは、正直じれったいこともあるけれど（笑）、その分、出来上がったときの「できた！」の顔は、最高です。
 
+こうして自分で作品を作るのが好きな息子を見ていると、「絵や物語の世界が好きなんだな」と感じます。そういえば最近知ったのですが、<strong>子ども自身が主人公になれる、世界に一つだけのオーダーメイド絵本</strong>というものもあるそうで。作ることや物語が好きな子への贈り物に、いいなあと気になっています。
+
+<div style="border:2px solid #e8a0bf;border-radius:10px;padding:14px;margin:20px 0;text-align:center;">
+<p style="font-size:0.75em;color:#888;margin:0;">【PR】</p>
+<p style="font-size:0.95em;margin:6px 0;">お子さんが物語の主人公になる、特別な一冊。誕生日や記念日のプレゼントにも人気です👇</p>
+<p style="margin:8px 0 0;"><a href="https://px.a8.net/svt/ejp?a8mat=4B7X56+2QU1II+5AXM+60OXD" rel="nofollow" style="font-weight:bold;color:#c0392b;">自分が主人公になる世界に一つだけの絵本【えほんインク】</a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4B7X56+2QU1II+5AXM+60OXD" alt=""></p>
+</div>
+
+
 ## 夏休み、あと少し！
 
 残るは、絵をあと数枚。それを仕上げれば、無事に2学期を迎えられます。ゴールが、見えてきました。
