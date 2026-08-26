@@ -21,6 +21,15 @@ description: "胎教から英語の音楽、幼稚園の英語課外授業…な
 
 特別な教材を買ったわけでも、気合を入れて取り組んだわけでもありません。家事の合間にBGMのように英語の歌を流したり、テレビ番組の代わりに英語の動画を見せたり。「ながら」でできることばかり。お金も手間もそんなにかけずに、生活の中に少しだけ英語を混ぜる。それくらいの、ゆるさでした。
 
+今思えば、この「聞く・見る」の入り口こそ、いちばん大事だった気がします。もし今もう一度この時期に戻れるなら、子どもが大好きなキャラクターの英語DVDを選ぶかもしれません。うちも英語の動画を流していましたが、子どもって、好きなキャラのものだと食いつきが全然違うんですよね。
+
+<div style="border:2px solid #7bc4a4;border-radius:10px;padding:14px;margin:20px 0;text-align:center;">
+<p style="font-size:0.75em;color:#888;margin:0;">【PR】</p>
+<p style="font-size:0.95em;margin:6px 0;">Eテレでおなじみ「うっかりペネロペ」の英語学習DVDなら、テレビ番組を見せる感覚で、無理なく英語の音に触れさせてあげられそう。机に向かう「お勉強」ではなく、大好きなキャラと一緒に楽しむ形なので、幼児期の「まず英語に慣れる」入り口にぴったりですね👇</p>
+<p style="margin:8px 0 0;"><a href="https://px.a8.net/svt/ejp?a8mat=4BAB1B+3PD6LM+3M0+2T9U02" rel="nofollow" style="font-weight:bold;color:#c0392b;">NHK Eテレ「うっかりペネロペ」の英語学習DVDを見てみる</a></p>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4BAB1B+3PD6LM+3M0+2T9U02" alt="" style="display:none;">
+</div>
+
 ## 幼稚園では、英語の課外授業にも
 
 幼稚園に上がってからは、もう少し本格的に。
