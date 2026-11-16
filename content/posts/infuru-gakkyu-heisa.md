@@ -55,6 +55,14 @@ description: "2学期が落ち着いてきた矢先、インフルエンザ流�
 
 そして実は、この3日間のあいだに、**私自身の体調も悪くなってしまって**……。喉の痛みと咳がひどくなり、正直しんどい日もありました。それでも在宅だったので、**自分の体調と相談しながら働く**ことができたんです。つらいときは少し横になって、楽になったら続きをする。もし通勤していたら、きっと無理をして、もっと悪化させていたと思います。流行期は、がんばりすぎないことが、いちばんの対策なのかもしれません。
 
+<div style="border:2px solid #f0a8b8;border-radius:10px;padding:16px;background:#fff6f8;margin:20px 0;text-align:center;">
+<p style="margin:0;font-size:0.75em;color:#888;">【PR】</p>
+<p style="margin:6px 0 10px;font-size:0.95em;">急なお休みや看病のときに助けられた、今の在宅のお仕事。私はママワークスで探しました。在宅・時短のお仕事が気になる方は、のぞいてみてくださいね👇</p>
+働きたい子育てママ必見<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BE9CT+5BPNVU+3CLE+5ZMCI" rel="nofollow" style="font-weight:bold;color:#c0392b;text-decoration:underline;font-size:1.05em;">在宅・時短のお仕事は<b>ママワークス</b></a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BE9CT+5BPNVU+3CLE+5ZMCI" alt="">
+</div>
+
 前回の警報のときは、「せっかくだから家で勉強しよう」と机を並べましたが、今回はまったく別もの。体調が怪しいときに大事なのは、"いつも通り"をがんばることじゃなくて、"いつもより休む"ことなんですよね。同じ「急なお休み」でも、理由によって過ごし方を切り替える。これも、親の大事な判断だなと思います。
 
 ## 流行期を乗り切るために、わが家が意識したこと
