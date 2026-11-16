@@ -75,6 +75,14 @@ description: "警報が出て、急に学校がお休み。普通なら「仕事
 
 働き方は、人それぞれ。すぐに在宅に変えられるわけではないことも、よくわかっています。でも、もし「今の働き方、突発対応がつらいな」と感じているなら——いつか、働き方を見直すという選択肢も、頭の片隅に置いておいていいのかもしれません。
 
+<div style="border:2px solid #f0a8b8;border-radius:10px;padding:16px;background:#fff6f8;margin:20px 0;text-align:center;">
+<p style="margin:0;font-size:0.75em;color:#888;">【PR】</p>
+<p style="margin:6px 0 10px;font-size:0.95em;">私も、今の在宅のお仕事はママワークスで探しました。子育てしながら働ける在宅・時短のお仕事を探すなら、のぞいてみてくださいね👇</p>
+働きたい子育てママ必見<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BE9CT+5BPNVU+3CLE+5ZMCI" rel="nofollow" style="font-weight:bold;color:#c0392b;text-decoration:underline;font-size:1.05em;">在宅・時短のお仕事は<b>ママワークス</b></a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BE9CT+5BPNVU+3CLE+5ZMCI" alt="">
+</div>
+
 そして、日ごろの小さな積み重ねは、ちゃんと子どもの中に残っています。夏休みの自宅学習が、こんな急な休みの日に生きたように。今やっていることは、きっと無駄にならない。そう信じて、今日も、ぼちぼちいきましょうね🍵
 
 **はなより**
